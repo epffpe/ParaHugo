@@ -1,0 +1,32 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=C4(C0805)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=R1(2012[0805])
+Added Component: Designator=R2(2012[0805])
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IN Pin=R1-1
+Added Net: Name=IN
+Added Pin To Net: NetName=NODEX Pin=R1-2
+Added Pin To Net: NetName=NODEX Pin=R2-1
+Added Net: Name=NODEX
+Added Pin To Net: NetName=OUT Pin=R2-2
+Added Net: Name=OUT
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VSS Pin=C3-1
+Added Pin To Net: NetName=VSS Pin=C4-1
+Added Pin To Net: NetName=VSS Pin=P2-1
+Added Net: Name=VSS
+Added Class: Name=LM7171SMD
+Added Room: Name=LM7171SMD
